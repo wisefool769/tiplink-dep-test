@@ -1,0 +1,32 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tiplink/api": "^0.2.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "db": "^6.0.3",
+    "dbjs": "github:medikoo/dbjs",
+    "dotenv": "^16.4.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "leveldown": "^6.1.1",
+    "levelup": "^5.1.1",
+    "next": "^14.2.3",
+    "nodemon": "^3.1.2",
+    "urbit-ob": "^5.0.1",
+    "uuid": "^9.0.1",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.3"
+  },
+  "description": ""
+}
